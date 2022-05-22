@@ -1,0 +1,10 @@
+server:
+  port: 80
+
+book:
+  name: 三国演义
+  price: 16
+  subject:
+    - java
+    - python
+    - c0
