@@ -18,6 +18,7 @@ class SpringBootTestApplicationTests {
     void add(){
         bookService.save(new Book(10,"类型","书名","描述"));
         System.out.println("hot-fix");
+        System.out.println("pull from remote "):
     }
 
 }
